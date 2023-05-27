@@ -66,7 +66,7 @@
 
 
 
-1.	Write a Scala program to check the largest number among three given integers.
+//1.	Write a Scala program to check the largest number among three given integers.
 	
 	// taking three variables
 	var a: Int = 70
@@ -114,7 +114,7 @@
 
 
 
-2) Write a Scala program to reverse an array of integer values.
+//2) Write a Scala program to reverse an array of integer values.
 
 var nums1 = Array(1789, 2035, 1899, 1456, 2013) 
     println("Orginal array:")
@@ -147,7 +147,7 @@ def test(nums: Array[Int]): Array[Int] = {
 
 
 
-3) Write a Scala code to merge two integer arrays into a third array
+//3) Write a Scala code to merge two integer arrays into a third array
 
 
  var IntArray1 = Array(10,11,12,13,14,15)
